@@ -36,7 +36,7 @@ const manejarclic = () => {
       manejarclic={manejarclic}/>
 
     <Boton
-      texto='reiniciar'
+      texto='restart'
       esBontonDeClic={false}
       manejarclic={reiniciar}/>
 
